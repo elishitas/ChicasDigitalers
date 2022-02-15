@@ -29,7 +29,7 @@ El curso está a cargo de dos profesores:
 - Braian Aued
 - Maria Elisa Araya.
 - Referente: Veronica Aides. 
-- También contamos con Isabella Perucca y como ayudantes, dos egresadas del Club. 
+- También contamos con Isabella Perucca y como mini tutoras, dos egresadas del Club. 
 
 ### Inscripción
 
