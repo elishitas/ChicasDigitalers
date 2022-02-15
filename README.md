@@ -28,7 +28,7 @@ Para hacer este curso solo hace falta tener instalado Visual Studio, comprometer
 El curso está a cargo de dos profesores: 
 - Braian Aued @auedBraian
 - Maria Elisa Araya.
-- Referente: Veronica Aides. @VAIDES
+- Referente: Veronica Aides. @elishitas
 - También contamos con Isabella Perucca y como ayudantes, dos egresadas del Club. 
 
 ### Inscripción
