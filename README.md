@@ -26,9 +26,9 @@ Para hacer este curso solo hace falta tener instalado Visual Studio, comprometer
 ### Docentes
 
 El curso está a cargo de dos profesores: 
-- Braian Aued @auedBraian
+- Braian Aued
 - Maria Elisa Araya.
-- Referente: Veronica Aides. @elishitas
+- Referente: Veronica Aides. 
 - También contamos con Isabella Perucca y como ayudantes, dos egresadas del Club. 
 
 ### Inscripción
@@ -37,3 +37,4 @@ La cursada está abierta para la comunidad. Lxs interesadxs en cursarla, pueden 
 
 :shipit: it's ready to code! :shipit:
 
+@github/support ¿Qué piensas sobre estas actualizaciones?
