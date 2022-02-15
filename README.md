@@ -37,4 +37,4 @@ La cursada está abierta para la comunidad. Lxs interesadxs en cursarla, pueden 
 
 :shipit: it's ready to code! :shipit:
 
-@github/support ¿Qué piensas sobre estas actualizaciones?
+
