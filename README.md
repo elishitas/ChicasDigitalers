@@ -29,7 +29,7 @@ El curso está a cargo de dos profesores:
 - [Braian Aued](https://github.com/auedBraian)
 - [Maria Elisa Araya.](https://github.com/elishitas) 🙋🏻‍♀️ 
 - Referente:  [Veronica Aides.](https://github.com/VAIDES)
-- También contamos con Isabella Perucca y como mini tutoras, dos egresadas del Club. 
+- También contamos con Isabella Perucca de 13 años y con Connie de 15 años como mini tutoras, dos egresadas del Club. 
 
 ### Inscripción
 
